@@ -1,0 +1,3 @@
+- Đăng ký, đăng nhập 
+- Thêm(có danh mục) , sửa , xóa sản phẩm
+- Thêm , sửa , xóa danh mục 
