@@ -33,12 +33,6 @@ else{
 
 }
   };
-//   const navigate = useNavigate()
-//   const onFinish = async (data) => {
-//     props.onAdd(data);
-//   navigate("/")
-//   message.success('Đăng nhap thành công!', 2);
-// }
   const onFinishFailed = (errorInfo: any) => {
     console.log('Failed:', errorInfo);
   };
